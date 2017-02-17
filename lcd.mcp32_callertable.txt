@@ -1,0 +1,19 @@
+main
+	__CC2DW
+	Sleep_
+	InitLcd
+		inputOp
+			Sleep_
+		Sleep_
+	ClearLcd
+		inputOp
+		Sleep_
+	OnOffLcd
+		inputOp
+		Sleep_
+	WriteLcd
+		strlen
+		ChangeLineLcd
+			inputOp
+		inputDt
+			Sleep_
